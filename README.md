@@ -1,1 +1,1 @@
-# goit-markup-hw-01-HTML_CSS_PL_ON_8
+# goit-markup-hw-01 (HTML+CSS PL ON 8)
